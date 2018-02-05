@@ -7,4 +7,4 @@ git clone https://github.com/kobelb/cjk-phantomjs
 
 You should see something similar to:
 
-[this](example-screenshot.png)
+![this](example-screenshot.png)
